@@ -17,3 +17,6 @@ In terms of code, there are Python files which execute the buttons and other ele
 The application could not work if the socket library is calling a communication between ESP32 devices. However, you can comment these lines in order to execute the application. 
 Files with extension ".plk" were imported to evaluate the posture monitoring system, and they are a good example to import data from a classification system. Moreover, some carpets are used to save elements from the interface such as progress Bars, icons, among others. 
 
+**Functioning: **
+You need to install all libraries are required for the application and then, execute the "main" file in order to open the whole application. 
+
