@@ -1,0 +1,35 @@
+{
+	"QMainWindow":[
+	{
+		"title": "neck window"
+	}
+],
+"QStackedWidget":[
+	{
+		"name":"stackedWidget",
+		"transitionAnimation":[
+			{
+				"slide":[
+					{
+						"active":true,
+						"duration":1000,
+						"direction":"horizonal",
+						"easingCurve":"OutBack"
+					}
+				]
+			}
+		],
+		"navigation":[
+			{
+				"nextPage":"nxt",
+				"previousPage": "prev",
+				"navigationButtons":[
+					{
+						
+					}
+				]
+			}
+		]
+	}
+]
+}
